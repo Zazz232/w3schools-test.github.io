@@ -1,8 +1,10 @@
 body {
-    background-color: lightblue;
+    background-color: Canvas;
+    color: CanvasText;
+    color-scheme: light dark;
+    margin-left: 50px;
 }
     
 h1 {
-    color: navy;
     margin-left: 20px;
 }
